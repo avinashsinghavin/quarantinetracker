@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "672123572895",
+    "firebase_url": "https://hackcovid-2ca2e.firebaseio.com",
+    "project_id": "hackcovid-2ca2e",
+    "storage_bucket": "hackcovid-2ca2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672123572895:android:e5d637961c8cd0af3848aa",
+        "android_client_info": {
+          "package_name": "android.avinash.quarantinetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672123572895-9afilaq34vknt4tfu2th4ggnccsop0v3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.avinash.quarantinetracker",
+            "certificate_hash": "9caeda6d19b462d06e48e5aa2d64584d878e5d65"
+          }
+        },
+        {
+          "client_id": "672123572895-2vktuaio3qt9oj8ifnp35gs5sokd71pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdd-8-YWJq7c3eNIO7QQbfAgd8170v92M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672123572895-2vktuaio3qt9oj8ifnp35gs5sokd71pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

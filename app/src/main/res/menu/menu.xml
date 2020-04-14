@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/logout"
+        android:icon="@mipmap/logout"
+        android:title="LogOut"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+</menu>
